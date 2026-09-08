@@ -8,33 +8,31 @@
 > Declararlo honestamente NO baja tu nota. Lo que se evalúa es tu capacidad de auditar.
 
 ## Herramientas que usé
-<!-- Ej.: GitHub Copilot en VS Code, ChatGPT, Claude, Cursor. Indica también si no usaste ninguna. -->
+<!-- Use Git hub, visual estudio code, claude, -->
 
 ## Qué le pedí
-<!-- Escribe el prompt real, no un resumen idealizado -->
+<!-- Solamente le pedi que me ayudara a resumir el documento y hacer paso por paso pero lo que no entendia miraba claude -->
 
 ```
 ```
 
 ## Qué me devolvió
-<!-- Pega el fragmento relevante -->
+<!-- me ayudo bastante con lo del git que no tenia ni idea de los comandos en github-->
 
 ```javascript
 ```
 
 ## Qué estaba mal
-<!-- La parte más importante del documento. Sé específico: qué falla, en qué caso,
-     por qué el código parecía correcto pero no lo era. Si de verdad no encontraste
-     ningún error, explica cómo lo verificaste (qué casos probaste). -->
+<!-- no habia ningun codigo de por medio -->
 
 ## Qué corregí y por qué
-<!-- Tu código final y el razonamiento del cambio -->
+<!-- los comandos del github -->
 
 ```javascript
 ```
 
 ## Qué escribí yo desde cero
-<!-- Qué partes no delegaste, y por qué decidiste no delegarlas -->
+<!-- Las partes sobre mi, y el desplazamiento de carpetas y crear nuevas y clonarlas -->
 
 ## Reflexión
-<!-- ¿Te ahorró tiempo de verdad, o lo perdiste depurando? ¿Volverías a usarlo para esto? -->
+<!-- Si me ahorro tiempo -->

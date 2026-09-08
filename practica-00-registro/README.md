@@ -1,16 +1,24 @@
 # practica-00-registro
 
 ## Qué hice
-<!-- Dos o tres líneas sobre qué construiste -->
+<!-- Creé mi repositorio del semestre, web1-2026-Jimenez, lo configuré con Git,
+incorporé la plantilla de entrega del curso con la estructura de carpetas,
+el IA.md y el workflow de GitHub Actions, y completé mi perfil de jugador
+en el README.md raíz -->
 
 ## Cómo correrlo
-<!-- Los comandos exactos, o el enlace si es una página estática -->
+<!-- No aplica, esta práctica no tiene código para ejecutar, es la configuración
+inicial del repositorio -->
 
 ## URL desplegada
-<!-- El enlace donde funciona y se puede jugar -->
+<!-- No aplica todavía -->
 
 ## Qué aprendí
-<!-- Lo que te costó, lo que resolviste y cómo -->
+<!-- Aprendí a diferenciar un ZIP descomprimido de un repositorio Git real, que
+sí tiene la carpeta oculta punto git, y por qué eso importa para que los
+comandos git add, git commit y git push funcionen. También configuré Git
+por primera vez, con mi nombre y mi correo, y me autentiqué con GitHub
+desde la terminal -->
 
 ## Qué no alcancé a hacer
-<!-- Sé honesto: esto no baja la nota y ayuda a que recibas mejores comentarios -->
+<!-- Nada pendiente para esta práctica, quedó completa -->
