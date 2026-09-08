@@ -1,13 +1,13 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- Nicolas Jimenez Alvarez -->
+**Nombre:** Nicolas Jimenez Alvarez
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @nicolasjimenez66477 -->
+**Usuario de GitHub:** @nicolasjimenez66477
 
 ## Sobre mí
 
-<!-- Me gusta mucho la programación y la logica que lleva esto, me encanta jugar muchos juegos y cualquier juego estaria muy chevere, lo que si me falla es la sintaxis de la programacion -->
+Me gusta mucho la programación y la logica que lleva esto, me encanta jugar muchos juegos y cualquier juego estaria muy chevere, lo que si me falla es la sintaxis de la programacion
 
 ## Progreso de la campaña
 
