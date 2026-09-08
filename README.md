@@ -1,20 +1,19 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** <!-- Nicolas Jimenez Alvarez -->
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** <!-- @nicolasjimenez66477 -->
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+<!-- Me gusta mucho la programación y la logica que lleva esto, me encanta jugar muchos juegos y cualquier juego estaria muy chevere, lo que si me falla es la sintaxis de la programacion -->
 
 ## Progreso de la campaña
 
 | # | Misión | Estado | XP | Repositorio | Jugar |
 |---|---|---|---|---|---|
-| 00 | Registro de jugador | ⬜ | /25 | [código](./practica-00-registro) | — |
+| 00 | Registro de jugador | ✅ | /25 | [código](./practica-00-registro) | — |
 | 01 | Ficha de personaje | ⬜ | /100 | [código](./practica-01-ficha) | — |
 | 02 | Tablero adaptable | ⬜ | /100 | [código](./practica-02-tablero) | — |
 | 03 | Juego de memoria | ⬜ | /100 | [código](./practica-03-memoria) | — |
